@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MisterAmKotlin</string>
+
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="authorization">Авторизация</string>
+    <string name="sign_in">Войти</string>
+
+    <string name="error_login">Поле Логин должно быть заполнено!</string>
+    <string name="error_password">Поле Пароль должно быть заполнено!</string>
+    <string name="error_authentication">Логин или пароль введен неверно!</string>
+
+    <string name="orders">Заказы</string>
+    <string name="notifications">Оповещения</string>
+    <string name="profile">Профиль</string>
+    <string name="label_active_tasks">Активные заказы</string>
+    <string name="logout">Выход</string>
+    <string name="logout_message">Действительно хотите выйти?</string>
+    <string name="ok_message">Выйти</string>
+    <string name="cancel_message">Отмена</string>
+
+
+    <string name="amount">%1$s грн.</string>
+    <string name="task_status">Заказ получен</string>
+
+    <string name="error_register">Возникла ошибка при регистрации вашего устройства</string>
+</resources>
